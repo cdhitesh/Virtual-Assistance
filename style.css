@@ -54,3 +54,7 @@ cursor: pointer;
     box-shadow: 2px 2px 20px rgb(21, 145, 207),2px 2px 20px rgb(201, 41, 116);
     letter-spacing: 2px;
 }
+h6{
+    color: rgb(212, 54, 178);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
